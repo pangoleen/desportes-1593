@@ -70,6 +70,9 @@ Measured on lines that were held back from training (482 signs, 505 letters, rea
 | Signs read correctly | 73 to 79 % | 98.5 % |
 | Letters correct after decoding | 30 to 40 % | 95.6 % |
 
+A later blind test on a page found afterwards (f. 179r, 21 lines, checked against the office's decipherment of
+1593) gave 99.7 % of signs and 98.3 % of letters.
+
 A control with planted errors shows that each 1 % of sign error costs about 1.5 % of letters. Details are in
 [evidence/accuracy.md](evidence/accuracy.md) and in the full work log, [evidence/worklog.md](evidence/worklog.md).
 
@@ -117,7 +120,7 @@ inference, and a comparison of hands would settle it. See [prior_art/scholarship
 
 | Folder | Content |
 |---|---|
-| `reading/` | The readings, with the raw machine output in `reading/raw/` |
+| `reading/` | The readings, with the raw machine output in `reading/raw/`. Also a third leaf in the same cipher, BnF fr. 4715 f. 61, read in full (`fr4715_f61_reading.txt`); Tomokiyo had read five spans of it. |
 | `gold/` | The labelled lines used for training and testing, and our transcription of the 1593 decipherment on f. 177 |
 | `evidence/` | Accuracy figures, the 1593 register entries, the work log |
 | `prior_art/` | The search for earlier readings |

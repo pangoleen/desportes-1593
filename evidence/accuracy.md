@@ -32,6 +32,22 @@ verso). Only 0.2 % of signs fall outside words of the lexicon.
 In the first test the recogniser was an ensemble of four models, trained on 53 lines (3,166 signs) at the time of this test. One
 held-out label was corrected after the test, when the image showed that the label was wrong.
 
+## Blind test on a page found later (f. 179r)
+
+The letter to the Pope has a third cipher page, f. 179r, which was not known when the models were trained. The
+models read its 21 lines first, and the output was saved ([f179r_machine_blind.txt](f179r_machine_blind.txt)). Only
+then was the office's decipherment of 1593 on f. 178r read and used as the answer key.
+
+| Measure | Result |
+|---|---|
+| Signs read correctly | 99.7 % (4 errors in 1,301) |
+| Letters correct after decoding | 98.3 % (23 errors in 1,369) |
+
+This is the cleanest test: unseen lines in the same hand, and an answer key written by the royal office in 1593.
+
+The models do not transfer to another hand. On six glossed rows of f. 274r (the bishop of Lisieux's secretary),
+without retraining, they read 55.9 % of the signs.
+
 ## How much sign error the decoder tolerates
 
 Control: the true sign strings of all 112 reference lines (7,169 letters), with random confusable substitutions,

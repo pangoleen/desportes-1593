@@ -1,0 +1,25 @@
+# Gold line transcripts of f. 179r (third cipher page of the letter to Clement VIII), cipher spelling.
+# Made on 1 Oct 2026 AFTER the blind machine reading (results in ../league1593/results/f179r_machine_blind.txt):
+# the machine text was compared with the decipherment on f. 178r, and every difference was checked on the image.
+# Scribe's forms kept: "pregne", "pendre" (for prendre), "tresnes" (for tresues), "ymaginer", "seron".
+0 |  | Q a gagner le temps P nous pouvoir armer & tout ce Q lon opose au contraire Q cest u
+1 |  | n alechement au peuple P tendre a la paix ie demanderois volontiers si lon fait
+2 |  | mieulx de le mectre au desespoir or dieu veuille Q ie sois un menteur mais sil na
+3 |  | pitie de nous ie tiens Q nous sommes en mauvais estat & crains Q les peuples sa
+4 |  | ns ce loisir de respirer ne pregne de mauvais conseilz & ne se portent enfin mal
+5 |  | gre nous non pas au repos dune tresve de peu de iours mais a une paix entiere
+6 |  | peu onorable P nous & peu seure P la religion la maieste divine naiant pas
+7 |  | plus en recommandation la # Q les autres roiaumes dont il a retire ses graces
+8 |  | & le tout P avoir neglige les affaires & les vouloir pendre hors de saison enc
+9 |  | ores avec tous les desadvantages Q lon sauroit ymaginer ceste pretendue conv
+10 |  | ersion provient des tresnes # K ont eu leur temps si a propos Q elles sont P prod
+11 |  | uire de mauvais fruictz non seulement aux despens de ce royaume K en sera in
+12 |  | fecte mais de toute la crestiente aiant crainte Kl ne nous reste bien tost au
+13 |  | tre remede Q de faire avec iugement & R accord premedite ce a quoy nous voyons
+14 |  | bien Q seron portez R la force & precipitation dun nombre infini de noblesse
+15 |  | & de peuples ie y metz encores les eclesiastiques K penseront tous nestre plus obl
+16 |  | igez a faire la guere apres la conversion du # mais au contraire tenus a procu
+17 |  | rer le bien de ce pauvre & miserable royaume Q chacun cherche de deschirer & mett
+18 |  | re en pieces soubz pretexte de religion & laparance dune ymaginaire roya
+19 |  | ute Q on propose foible sans argent & sans gens P soposer a la conversion
+20 |  | du # assiste avec ardeur de tous les siens

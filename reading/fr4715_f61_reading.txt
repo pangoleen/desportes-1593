@@ -1,0 +1,84 @@
+BnF fr. 4715 f. 61r (no. 38). A slip mounted on a leaf; no writer, no addressee, no date. Gallica btv1b52509819x,
+image 137 (colour scan). Clear French with six cipher runs (99 signs) in a variant of the League polyphonic cipher.
+Reading of 1 Oct 2026 (Claude), by eye on the native image with Tomokiyo's sign table.
+Conventions: u/v, i/j and apostrophes are editorial; {clair} = clear text in the original; cipher is set in
+CAPITAL-free roman between « »; [ ] = editorial; (?) = doubt; ø = a null sign (dropped in the running text).
+Earlier work: Tomokiyo (bnf4715.htm, "Solution incomplete") read five spans: "avec", "est capable",
+"trop avancees", "jalousie au beau pere", "me l'entendoit". The public repository NoAutopilot/cipher-lab
+(27-29 Sept 2026) studied the leaf sign by sign and states "Nothing on f.61r is solved"; it has no reading
+of the run of line 10 and proposes d for one sign of line 11. Their work and his are credited here.
+
+LINE BY LINE (lines of the slip, 1-11)
+ 1 {[N]ous avons parlé familierement et amplement de toutes choses} « ø ø avec [S] ø et [un signe biffé] d-
+ 2 « ø es » {particulierement sur les plus Importantes. Il seroit trop long vous en dire les}
+ 3 {propos Et Combien} « ø ø [S] est ca ø p ø ø able » {a les entendre Et plein de}
+ 4 {generosité pour beaucoup deservir} « ø(?) » {. Mais on croit Come Je le croys aussi que les}
+ 5 {choses sont} « ø ø [h] trop ø ø ava ø ncee ø s » {. Et que si nous mesmes en}
+ 6 {en conoyssants le fruit en fesions la premiere pointe On ne differeroit point du reste.}
+ 7 {Cependant on n'ose envoyer depardella pour n'i mettre} « ø ø jal ø ous ø i-
+ 8 « e a ø u beau ø ø pere » {maintenant qu'on en a affere. Vous estes}
+ 9 {sur les lieux. Vous verres s'il s'en presentoit les occasions Et s'il s'en pouvoit}
+10 {prendre quelqu'une Je ne seroys pas paresseux si} « l ø e gros h ø ø o ø ø
+11 « me l'entendoit » {tant soit peu.}
+
+RUNNING TEXT
+Nous avons parlé familierement et amplement de toutes choses avec [S], et des(?) particulierement sur les plus
+importantes. Il seroit trop long vous en dire les propos, et combien [S] est capable a les entendre, et plein de
+generosité pour beaucoup deservir. Mais on croit, comme je le croys aussi, que les choses sont [h] trop avancees,
+et que si nous mesmes, en conoyssants le fruit, en fesions la premiere pointe, on ne differeroit point du reste.
+Cependant on n'ose envoyer depardella, pour n'i mettre jalousie au beau pere maintenant qu'on en a affere. Vous
+estes sur les lieux. Vous verres s'il s'en presentoit les occasions, et s'il s'en pouvoit prendre quelqu'une je ne
+seroys pas paresseux, si le gros home l'entendoit tant soit peu.
+
+TRANSLATION
+We spoke familiarly and at length of all things with [S], and of some(?) in particular, of the most important.
+It would take too long to tell you what was said, and how able [S] is to understand them, and how full of
+generosity to do much service. But people believe, as I do also, that things are [h] too far advanced, and that if
+we ourselves, knowing the fruit of it, made the first move, the rest would not be delayed. Meanwhile no one dares
+to send [anyone] over there, so as not to give jealousy to the father-in-law now that we need him. You are on the
+spot. You will see if occasions arise; and if one could be taken I would not be idle, if the fat man understood
+it even a little.
+
+WHAT IS NEW AGAINST THE EARLIER WORK
+- Lines 10-11: the run reads "le gros home l'entendoit" (signs l/y, e/r, g/t, e/r, b/o, f/s, h/u, b/o, then
+  m, e, l, e, n, t, e, n, d, o, i, t; "home" = homme, split over the line end). Tomokiyo read only line 11, as
+  "me l'entendoit" (the pronoun "me"); cipher-lab's fragment for line 10 was "letresur", not a reading.
+- Lines 1-2: after "avec" comes a person sign [S], then "et", a struck sign, and "des" (d at the end of line 1,
+  a null and "es" on line 2). The same sign [S] is the subject of "est capable" in line 3.
+- The reading is one sentence of connected French over the whole slip.
+
+SIGN TABLE OF THIS HAND (all letter signs agree with Tomokiyo's table)
+a/n "43" (and a plain "4" for n in line 11); b/o ring-stem-ring; c/p "4" over a triangle; d/q "4" over two legs
+with a bar; e/r trefoil on a stem; f/s two bars with two short uprights; g/t small triangle with a bar;
+h/u "8" lying on a bar; i/x "2" joined to a crossed stroke; l/y bracket; m/z "ß".
+Nulls (never in the 1592-93 letters of the family): a small clear "a" (10 times), "6" (8), "+" (2), "ll" (2), and
+a ring on a stem with two bars at the foot (5; three times as the pair "a + ring" at the head of a run, once
+inside "capable", once alone after "deservir").
+Other signs: [S], a long S-shaped sign (2): a person. [h], an h-shaped sign (1): unread; a null, or a word sign
+("par trop avancees" would be good French). One struck sign at the end of line 1.
+
+CONTROLS (`f61_control.py`, `NOTES.md`)
+- The lexicon decoder of ../sega1593 (period French, no knowledge of this leaf), run on the signs of lines 10-11
+  with the nulls removed, returns "le gros ... entendoit" by itself. With "home" and "lentendoit" allowed it
+  returns "le gros home lentendoit".
+- Shuffled control: the language-model score of each run against 300 random orders of the same signs. Lines
+  10-11: no shuffle of 300 scores as well (true -42.1, best shuffle -50.3, median -67.3). The four spans that
+  Tomokiyo read behave the same way (0/300 for "est capable", "trop avancees", "jalousie au beau pere").
+  "et des" (5 signs) is too short to test: 4 of 300 shuffles score as well.
+- No held-out glyph test is possible in this hand: no other leaf in it is known. The letter signs are fixed by
+  the 55 letters of Tomokiyo's five spans.
+
+DOUBTS
+- "et des particulierement": the signs give e/r g/t, then d/q, null, e/r f/s. "et des" is the only French
+  reading, but the phrase is odd; the struck sign may hide a correction.
+- "deservir" + the ring sign: the ring sign is a null inside "capable"; here it may be a null or stand for an
+  object (a person or a cause).
+- [h] in line 5: one occurrence; not read.
+- "a les entendre": the "a" is taken as the clear word "à", not a null.
+- Who is who. [S]: not identified (a person who is "capable" and "plein de generosité"). "le gros home": the
+  duke of Mayenne was known for his bulk, and the cipher is his party's; this is a guess. "le beau pere":
+  two candidates, both guesses: Philip II (father-in-law of the duke of Savoy from 1585), or the duke of
+  Nevers (father-in-law of the duke of Longueville from 1588; the volume is Nevers's cipher file and the
+  leaves beside f. 61 are letters to him of December 1589).
+- Date: none on the slip. The neighbouring leaves are of 1589; Tomokiyo's dated letters in this cipher are of
+  1592-93. The nulls set this hand apart from all of them.

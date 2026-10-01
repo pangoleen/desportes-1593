@@ -83,3 +83,40 @@ github.com/dbourdeau/cyphersolver, targets/sega1593): gold labels, f. 185 text, 
   and to Lisieux (22 and 26 July), but NOT the letters to Aldobrandini and Frachetta.
   Web search for phrases of the reading ("docteur Gratian", "l'homme de la chesne") with Desportes/Frachetta:
   no hit.
+- 18:30 HELD-OUT RESULT 2 (final). Models v_s0, v_s1, v_r0 trained on 100 gold lines (6,066 glyphs); test on
+  12 lines never used for training (f188v 7-10, f176r 20-23, f176v 20-23; 728 glyphs, 767 letters):
+  GLYPH accuracy 99.0 % (7 errors); end-to-end LETTER accuracy 97.3 % (21 errors).
+  Per page: f188v 96.7 % of letters, f176r 95.9 %, f176v 99.2 %. (`eval_e2e.py`)
+  Caveat: the f176v gold was made by correcting recogniser output against f. 177v, so its 4 lines are a
+  softer test than the 8 lines read by eye before any model existed (those: 98.5 % glyphs, 95.6 % letters).
+- 18:40 Unread pages read with 9 models (p_s0, p_s1, p_r0 trained on all 112 lines; v_*, h_*): f189 2,088
+  glyphs, f186r 2,565, f186v 2,046. Ensemble disagreement 1.0 %, 1.3 %, 2.0 % of glyphs; glyphs outside
+  lexicon words 0.2 %. Raw machine output with glyph classes: `results/dump_*.txt`.
+- 19:30 Every line of the three pages checked on the image (annotated sheets `annot.py`, zooms `wspot.py`,
+  `gl.py`); edited readings with doubt marks and translations: `results/f189_reading.txt`,
+  `results/f186_reading.txt`. Findings on the hand: the sign with a crossed stroke over S = Sa Sainteté, with
+  two bars = Monsieur; "V.S.I." is a clear abbreviation; clear "Mre" = maistre; "part.er" = particulier; on
+  f. 186v the gutter hides the last 1-2 glyphs of most lines.
+- External checks of the reading (none was in the lexicon or forced by the language model):
+  "doit dimanche aller a la messe" (22 July 1593 was a Thursday; Henri IV abjured on Sunday 25 July);
+  "Mateouci/Mateuci" and "Malvoisie" (the papal commissaries Girolamo Matteucci and Innocenzo Malvasia);
+  "pontificat du [pape] Gregoire" (Gregory XIV paid the papal army of 1591); "duc de Feria"; "accepter
+  Monsieur [de Guise] pour roy" (the Spanish proposal of July 1593, also in f. 188v).
+- Prior-art check (final): cryptiana mayenne.htm / league.htm / unsolved.htm (27 Sept 2026) - "undeciphered";
+  Bourdeau README and repo (30 Sept 2026) - "Not read"; BnF notice - nos. 88, 90 "avec chiffre" only, and the
+  royal office's extracts (fr. 3983 no. 72) skip both letters; web searches for "Mateuci"/"Malvoisie" with
+  Desportes 1593, "docteur Gratian", "homme de la chesne", "servir de fable a toute la crestiente": no hit.
+  I found no earlier reading. I did not search printed literature (e.g. studies on Frachetta or on Philippe
+  Desportes's brother) beyond the web.
+- Not resolved: one name in f189 l. 17; the sign after "voiage de" (f189 l. 26); f186v ll. 0-3 (about 10
+  glyphs, gutter); the clear words of f186r l. 17; the cover names of the Frachetta letter.
+- Housekeeping: canvases, models, logs and renders live on the Spark (`~/code-breaking/sega1593/`, 370 MB
+  without the venv). The Mac keeps scripts, gold, lines, results. To rerun: `./sync.sh`, then on the Spark
+  `./venv/bin/python eval_e2e.py v_s0.pt v_s1.pt v_r0.pt` and `annot.py <page> 0 60 <models>`.
+
+## What would take it further
+- A specialist's check of the code signs and cover names; the Aldobrandini and Frachetta papers may name them.
+- Higher-resolution or colour images of f. 186v (gutter) and the blots on f. 189.
+- f. 274 and the other letters in this cipher (fr. 3982, 3983, 4715 f. 61) should now read with the same
+  models after a few gold lines of each hand.
+- The clear opening of f. 186r still needs a letter-by-letter transcription.

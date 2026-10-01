@@ -1,16 +1,3 @@
-# Desportes to Pietro Aldobrandini, Paris, 22 July 1593
-
-Paris, BnF, ms. français 3984, f. 186 (Gallica: ark btv1b9060633d, images 347 and 348).
-
-**Status: first reading, version 0.2 (1 October 2026).** The text was read by a line recogniser and a lexicon decoder,
-and then every line was checked against the page image by the model that made it. No palaeographer has checked it
-yet. Doubtful words carry `(?)`. Editorial additions and sign values are in `[ ]`. Clear text of the original is in
-`{ }`.
-
-The file below is [f186_reading.txt](f186_reading.txt). The raw machine output, with the sign string of every
-word, is in [raw/](raw/).
-
-```text
 BnF fr. 3984 f. 186r-v (no. 88). Baudouin-Desportes to Pietro Aldobrandini, Paris, 22 July 1593.
 First reading of the cipher passages, 1 Oct 2026 (Claude; CTC recogniser + lexicon decoder; lines checked on the image).
 Conventions as in f189_reading.txt. Line numbers = text lines of each page as segmented (recto 0-51, verso 0-32).
@@ -192,4 +179,3 @@ that, but for respect for His Holiness, he would not stay so long at his own cos
 house. He [the Legate] has even been so disrespectful as to make him fear that he is in His Holiness's
 disfavour; which everyone nonetheless thinks a device to reach his own ends, so as to oblige the Spaniard,
 which has always been his main aim.
-```

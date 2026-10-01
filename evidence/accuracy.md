@@ -22,7 +22,14 @@ to 23. The first eight (482 signs, 505 letters) were read by eye before any mode
 | Signs read correctly | 98.5 % (7 errors in 482) | 73 to 79 % |
 | Letters correct after decoding | 95.6 % (22 errors in 505) | 30 to 40 % |
 
-The recogniser was an ensemble of four models, trained on 53 lines (3,166 signs) at the time of this test. One
+A second test on twelve lines (the same eight plus f. 176v lines 20 to 23; 728 signs, 767 letters), with three
+models trained on 100 lines, gave 99.0 % of signs (7 errors) and 97.3 % of letters (21 errors). The four added
+lines are a softer test, because their labels were made by correcting recogniser output against f. 177v.
+
+On the unread pages, nine models disagree on 1.0 % of signs (f. 189), 1.3 % (f. 186 recto) and 2.0 % (f. 186
+verso). Only 0.2 % of signs fall outside words of the lexicon.
+
+In the first test the recogniser was an ensemble of four models, trained on 53 lines (3,166 signs) at the time of this test. One
 held-out label was corrected after the test, when the image showed that the label was wrong.
 
 ## How much sign error the decoder tolerates

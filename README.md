@@ -5,12 +5,14 @@ before Henri IV abjured Protestantism.
 
 | Letter | Shelfmark | State before | State now |
 |---|---|---|---|
-| Desportes to Girolamo Frachetta | Paris, BnF, ms. français 3984, f. 189 | "Undeciphered" | [draft reading and translation](reading/f189.md) |
-| Desportes to Pietro Aldobrandini, the Pope's nephew | BnF, ms. français 3984, f. 186 | "Enciphered passages are undeciphered" | [draft reading, selected passages translated](reading/f186.md) |
+| Desportes to Girolamo Frachetta | Paris, BnF, ms. français 3984, f. 189 | "Undeciphered" | [first reading and translation](reading/f189.md) |
+| Desportes to Pietro Aldobrandini, the Pope's nephew | BnF, ms. français 3984, f. 186 | "Enciphered passages are undeciphered" | [first reading and translation of the cipher passages](reading/f186.md) |
 
-**Status: working draft, version 0.1, 1 October 2026.** The readings are machine readings that a person has not yet
-checked sign by sign. The signs for names are not yet resolved. This repository is private until those two points
-are closed.
+**Status: first reading, version 0.2, 1 October 2026.** Every line was checked against the page image by the model
+that made the reading. No palaeographer has checked it yet. Most signs for persons are resolved from the deciphered
+sister letters (the Pope, the King of Navarre, Mayenne, the King of Spain, the Legate, Guise). A few signs and all
+cover names ("nostre oncle", "l'homme de la chesne", "l'homme du colege", "docteur Gratian") are open. This
+repository is private.
 
 ## What the letters say
 
@@ -21,9 +23,13 @@ cause turns.
   wishing to become a Catholic, **and on Sunday he is to go to Mass**". Spain wants the League to elect a king, but
   its army "has done nothing but stay on the frontier". Everyone is "tired of serving as a tale for all
   Christendom".
-- To Frachetta: "I hold that we shall have the truce within a few days." The papal legate "has done what he could
-  to help the Spaniard" and "has neglected the service of his [master], to the point of not delivering a single one
-  of our briefs", working instead "to hasten the dismemberment of our state".
+- To Aldobrandini again: the Legate "has shown himself their partisan, to tear apart our poor state", and Mayenne
+  was patient to the point of "being willing to accept Monsieur [de Guise] for king, provided he was shown the means
+  to defend him".
+- To Frachetta: "I hold that we shall have the truce within a few days." The journey of an envoy "has made [the King
+  of Navarre] change religion". The papal legate "has done what he could to cover the Spaniard" and "has neglected
+  the service of his master, to the point of not delivering a single one of our briefs", working instead "to hasten
+  the dismemberment of our state".
 
 Henri IV abjured and heard Mass on Sunday 25 July 1593. The general truce followed on 31 July.
 
@@ -113,8 +119,8 @@ inference, and a comparison of hands would settle it. See [prior_art/scholarship
 
 ## Before this repository goes public
 
-- [ ] Check both readings against the page images, line by line.
-- [ ] Resolve the name signs.
+- [x] Check both readings against the page images, line by line (done by the model; a human check is still open).
+- [ ] Resolve the remaining signs and the cover names.
 - [ ] Add the report on the manuscript volume (`prior_art/volume.md`).
 - [ ] Remove local file paths from the reports and the work log.
 - [ ] Choose a licence, and confirm that no file from another project is included without its licence.

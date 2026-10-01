@@ -1,16 +1,3 @@
-# Desportes to Girolamo Frachetta, Paris, 22 July 1593
-
-Paris, BnF, ms. français 3984, f. 189 (Gallica: ark btv1b9060633d, image 353).
-
-**Status: first reading, version 0.2 (1 October 2026).** The text was read by a line recogniser and a lexicon decoder,
-and then every line was checked against the page image by the model that made it. No palaeographer has checked it
-yet. Doubtful words carry `(?)`. Editorial additions and sign values are in `[ ]`. Clear text of the original is in
-`{ }`.
-
-The file below is [f189_reading.txt](f189_reading.txt). The raw machine output, with the sign string of every
-word, is in [raw/](raw/).
-
-```text
 BnF fr. 3984 f. 189 (no. 90). Baudouin-Desportes to Girolamo Frachetta, Paris, 22 July 1593.
 First reading, 1 Oct 2026 (Claude, with the CTC recogniser + lexicon decoder; every line checked on the image).
 Conventions: u/v and i/j are set as in modern use; apostrophes and punctuation are editorial; "-" at a line end
@@ -102,4 +89,3 @@ Spaniard; he took up their cause with such ardour that he neglected his master's
 deliver even one of our briefs, which would have done great good. But that was not what he wanted; on the
 contrary, [he wanted] to hasten the dismemberment of our state. From the letter to [His Holiness?] you will
 know the true general state of our affairs. I kiss your hands ... Paris, 22 July 1593.
-```

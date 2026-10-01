@@ -79,10 +79,17 @@ We looked for an earlier reading and found none. What was checked, and what was 
 
 - [prior_art/community.md](prior_art/community.md): the codebreaking community and 2026 projects.
 - [prior_art/scholarship.md](prior_art/scholarship.md): catalogues, editions and historical literature.
+- [prior_art/volume.md](prior_art/volume.md): the manuscript volume itself and its neighbours, page by page.
 - [evidence/register_1593.md](evidence/register_1593.md): the royal office's own notes that the letters were not
   deciphered.
 
+The office that intercepted the letters noted three times that it had not deciphered them: on the back of each
+letter (f. 187v: "non encore deschiffree"; f. 189v) and in its register (ms. français 3983, f. 141v).
+
 Open gaps, stated plainly:
+
+- The sister letter to the Pope is marked "Duplicata". A first copy of each dispatch may have left Paris by another
+  route. If one reached Rome, its addressee read it there in 1593. No such copy or reading is known.
 
 - The Archivo General de Simancas (Estado, legajos 961 and 963) holds copies of letters that Frachetta gave to the
   Spanish ambassador in September 1593. Nobody has checked whether the letter of 22 July is among them.
@@ -121,6 +128,6 @@ inference, and a comparison of hands would settle it. See [prior_art/scholarship
 
 - [x] Check both readings against the page images, line by line (done by the model; a human check is still open).
 - [ ] Resolve the remaining signs and the cover names.
-- [ ] Add the report on the manuscript volume (`prior_art/volume.md`).
+- [x] Add the report on the manuscript volume (`prior_art/volume.md`).
 - [ ] Remove local file paths from the reports and the work log.
 - [ ] Choose a licence, and confirm that no file from another project is included without its licence.

@@ -1,0 +1,78 @@
+# f. 177r-v: the office's decipherment of f. 176r-v (Baudouin-Desportes to Clement VIII, 22 July 1593).
+# First reading by Claude, 1 Oct 2026, from Gallica canvases 329-330. Abbreviations expanded. [?] marks doubt.
+# One manuscript line per line. r = recto, v = verso.
+r01 Tressainct pere La larme aux yeux et lame plaine de desespoir Je scay dire a vostre sainctete
+r02 quil me desplaist infiniment quelle ayt a me trouver si veritable sur ce que tant de fois je luy
+r03 asseure que quand que le Roy d'hespaigne vint a demeurer ferme et resolu a vouloir sa fille Royne de
+r04 France ou du Erneste ou aultre subject contraire a noz loix quil seroit occasion de la Ruine de nostre
+r05 party et de lestablissement du Roy de Navarre estant une Ignorance trop grande de penser faire
+r06 passer oultre en ung affaire de telle Importance comme celle pour laquelle estoit convocquee lassemblee des estatz
+r07 sans premierement remplir les oreilles et les yeux de quelque apparance dappuy ferme et non
+r08 comme par le passe Car ou il y va de la totalle perte de la relligion de son honneur et de tout ce
+r09 qui se peult Estre du monde que lon doibt estre rendu capable du moyen de se pouvoir
+r10 garentir du contraire Jamais les ministres du Roy dhespaigne nont este si despourveuz de forces
+r11 sorte de moyens et davoir si petit sans faire aulcun progrez et monstrer de mespriser tout ce
+r12 qui peult servir pour nostre conservation aiant ces choses faict veu si bien [recharge?] de parvenir
+r13 a leurs desseings sans en vouloir rien rabbatre ce est mettre tout le monde en tant de
+r14 desespoir que les depputez pour lhonneur ont este plusieurs fois pour se separer sans rien conclure
+r15 Aussi quilz ont receu une grande honte que le Roy de Navarre ayt pris a leur barbe Dreux ville la
+r16 plus zellee et catholique qui fust en ce party ou jamais on na voulu donner ordre quelque Instance
+r17 quilz en ayent sceu faire a ceulx qui ne parlent que du bien de la France et nont aultre parolle que la
+r18 relligion nonobstant que ilz ayent eu six sepmaines de loysir pour le faire Si toutesfois Ilz ont faict comme
+r19 silz navoient point doreilles sinon pour effectuer leurs desseings Ce qui a faict a bien ouvrir les yeux et
+r20 desployer la langue pour nestre plus Insensibles tant que estans en grande crainte et apprehension
+r21 et que leurs deputez par leur retraicte ne feissent pour apporter de grandz changemens aux Provinces lassees de
+r22 ces manieres de proceder que lon voit ne tendre qua nostre ruine ont voulu reparer leurs faultes par la proposition
+r23 dun nouveau subject lequel sil eust este desploye Il y a dix ans et lors quil ny avoit nulle aparance
+r24 de conversion avec le Roy de Navarre ou mesmes au temps que Jeuz cest honneur de traicter de ceste matiere avec vostre
+r25 Sainctete et que a mon partement elle sen feust laissee entendre ainsi qua la personne de du Mayne le temps que lon a
+r26 perdu eust peu estre employe de telle sorte quil en eust peu reussir de lutilite Mais a present si bien Ilz presentent ung monde
+r27 de belles conditions que chascun scait que ce nest que pour opposer a lobstacle que nous donne maintenant le Roy de Navarre
+r28 pour le changement quil faict de son opinion en la relligion catholique qui ne sera pas peu et apres quilz nous auront faict
+r29 passer ceste carriere de nous rendre Irreconsilliables nous laisser dans la fange Car si cestoit a bon essient quilz
+r30 voullussent marier Monsieur de Guyse avec lInfante Comme Ilz disent par des Instructions quilz reputent bien expresses
+r31 Ce nest pas possible quilz eussent voulu commettre tant derreurs quilz ont faict Comme de sestre laissez cognoistre
+r32 Jusques dans lame navoir faict nulles provisions dargent ny faict nul preparatif pour faire la guerre laissans
+r33 acroistre nostre ennemy en reputation donner par ce moyen couraige aux siens de ne labandonner et a nous au
+r34 contraire faire perdre a la demeure Joinct aussi que aultresfois nous trouvions Juste davoir de luy faire la guerre
+v01 Et qui pis est de luy avoir tellement asseure son party tant de sa noblesse et pour villes quon tient
+v02 pour certain que dans quinze jours Il aura 3000 chevaulx et vingt mil hommes de pied et dix pieces
+v03 et naura rien a son prejudice Le subject de la Religion en estant hors Il ny fault pas seulement
+v04 songer Aussy que ung chascun desespere de nostre salut Car maintenant Monsieur du Mayne et
+v05 tous les princes ne se retrouvent pas avec cent[?] deux cens chevaulx ayans este force de separer
+v06 ung chascun par la necessite ou lon se reduict dans les places pour y tenir garnison de crainte
+v07 quil nen avienne ainsi qua Dreux Car quon se promette plus rien des espaignolz pour en repaistre noz
+v08 partisans cest se rompre la teste Je ne diz pas que silz eussent voulu parler clair de bonne heure et donner le
+v09 loisir den porter noz villes pour lapprehention dune saincte convention quil ny eust eu moyen de subsister
+v10 Mais de la sorte quilz se retrouvent et que leurs ministres se sont gouvernez cest encores plustost courre
+v11 a nostre perte daultant que nostre naturel veult des executions promptes et qui ne nous donnent le loisir den
+v12 venir sur les discours Dieu scait avec quel regret Je faiz quil fault que Jen parle de la sorte a V S Mais Jy
+v13 suis force Afin quelle ne sabuze point a tout ce que lon luy pourroit escrire au contraire Et quelle me face
+v14 cest honneur de se souvenir quelle me la commande Et aussi que Je luy ay tousjours parle librement
+v15 et veritablement Partant tout le remedde qui sy pourroit trouver pour nous saulver du naufrage qui soffre
+v16 cestoit de ne luy desnier une tresve de quelques mois pour des raisons longues a escrire Lesquelles
+v17 monsieur le Legat na nullement voulu gouster que chascun attribue a lInterest de son particulier
+v18 Pour le subject que Jose une fois dire a V S dont on dit estre si chatouille quil nest capable de nul
+v19 bon conseil et a pris une telle liberte de parler a Monsieur du Mayne que pour bien faire Je luy laisse tout
+v20 conduire affin de faire chose qui soit aggreable a V S dont ce que ces aultres ministres sont tousjours
+v21 preoccupez Mais moy qui la cognois estre sans passion aultre que celle du bien de la France et
+v22 masseurer et luy ay remonstre assez de fois quil passast oultre et que V S lapprouveroit Car Il
+v23 vault mieux ployer que rompre veu que les exemples de dAllemagne # et dAngleterre nous le doibvent
+v24 avoir assez appris nonobstant tout ce que Je luy en ay sceu dire Il ne la voulu faire et est aujourdhuy
+v25 en estat de prendre telle loy qui luy sera prescripte par Monsieur le legat lequel a pris ung extreme
+v26 advantaige sur ce que V S avoit mal receu la despesche escripte a # et mesme mal sur lestat
+v27 des affaires Tant que ce pauvre Prince a este long temps au desespoir et sans que Je le console sur ce que
+v28 ce nestoit rien au respect de la mienne quelle estoit bien plus moderee et que maintesvoyes[?] le dict tiltre[?]
+v29 ma faict cest honneur de me faire scavoir que vostre Sainctete lavoit trouve bonne voire conseille de continuer
+v30 a ladvenir avec mesme liberte Jestime quil feust tumbe soubz le faiz et puis Jallay voir Monsieur
+v31 le legat auquel Je portay la coppie de mes lettres sur lesquelles Il ne sceut que dire La verite estant
+v32 tousjours elle mesme par tout et les approuva veritables En semblable les Raisons que Je
+v33 luy donne sur les affaires de maintenant pour nous empescher dune prochaine Ruyne par le
+v34 moyen de la dicte tresve A quoy Il ne me sceut que repartir ny donner aultre satisfaction que In foro
+v35 consciencie Il ne la pouvoit consentir encores Il se feust tenu en ses termes quil neust commect[?] la
+v36 honte des espagnolz et lhonneur de vostre S ny seroit engage ainsi quil est Mais au contraire
+v37 na este conste[?] que sil la faisoit Il se retireroit hors de France suivant la charge quil en avoit
+v38 de vostre S Tellement quau lieu de se soubmettre ne luy a voulu compatir[?] la despesche[?] ont este[?]
+v39 luy faire porter le faiz et la calomnie de tous ces actes qui nont pour but que les estatz[?]
+v40 aux despens du premier et tesmoins[?] Mais ce sera bien dessus[?] leurs quand Dieu nous fault [?]
+# marginal note on the verso, beside v16-v19: "cest de le faire pape comme assure par aultres lettres que les espaignolz le luy promettoyent"

@@ -1,0 +1,25 @@
+# Gold line transcripts of f. 188v (cipher spelling as written), read by eye against f. 185 on 1 Oct 2026.
+# Format: line | x-ranges of cipher (empty = whole line) | text
+# lower case = plaintext letter; Q = que sign; K = qui sign; P = pour sign; & = et sign; # = other sign / struck glyph;
+# =X = glyph class X written as seen (plaintext letter unknown)
+2 |  | voulu oposer a la tresve les espagnolz en la proposition Klz ont faite de #
+3 |  | Pestre roy nestoit QPtromper tant Q cela a fait passer oultre a la tresve nono
+4 |  | bstant Q les eclesiastiques ny ayent voulu consentir mais ilz ne pouvoi
+5 |  | ent autrement tout dun coup les espagnols ont fait une si grande facili
+6 |  | te Q ie ne say comme ilz la pourront reparer mais croies Q cest pure necessite
+7 |  | si on meust voulu croire leur honneur seroit sauve nous en serions mieu
+8 |  | x & # # ny avoit pas este embrouille aussi en sont ilz venus a de grosses
+9 |  | paroles sur les promesses Q # luy avoit faites & estoit si presomptueux de
+10 |  | les luy vouloir nier & le dit # luy monstre six de ses lettres pendant no
+11 |  | s debas hier # fist sa profession de foy la teste nue un cierge en la main
+12 |  | criant merci a dieu a leglise & a nostre # pere la porte de leglise luy fust re
+13 |  | fusee puis il y entra ou il fust chante une haute messe R # de bourges & pre
+14 |  | scha apres il alla a vespres & puis vint a montmartre en devotion ou
+15 |  | on fist feux de ioie tant QP lisle de # elle se promect Q la tresve sera la
+16 |  | pais si chacun se veut despouiller de son interest on se pouroit prom
+17 |  | =E=L=G=E un repos en # ou ie trouve peu de difficultes les gouverneurs des
+18 | 250-2500 | villes & provices aiants acquis le mon de roy
+19 | 1480-2270 3200-3640 | de la tresve car Q elle ne
+20 |  | soit ne n doutes pas & si nouvellement # de boisdaufin a pris deux bo
+21 |  | # places en touraine le filz de # ne fait Q bien de tous costes on pr
+22 | 250-3080 | ospere fors au gros P ce Q les espagnols lont fait ainsi

@@ -11,8 +11,8 @@ before Henri IV abjured Protestantism.
 **Status: first reading, version 0.2, 1 October 2026.** Every line was checked against the page image by the model
 that made the reading. No palaeographer has checked it yet. Most signs for persons are resolved from the deciphered
 sister letters (the Pope, the King of Navarre, Mayenne, the King of Spain, the Legate, Guise). A few signs and all
-cover names ("nostre oncle", "l'homme de la chesne", "l'homme du colege", "docteur Gratian") are open. This
-repository is private.
+cover names ("nostre oncle", "l'homme de la chesne", "l'homme du colege", "docteur Gratian") are open.
+Corrections are welcome: please open an issue.
 
 ## What the letters say
 
@@ -127,10 +127,18 @@ inference, and a comparison of hands would settle it. See [prior_art/scholarship
 | `images/` | Reduced images for reference |
 | `code/` | The scripts as they were used. They are not yet cleaned up. |
 
-## Before this repository goes public
+## Open points
 
-- [x] Check both readings against the page images, line by line (done by the model; a human check is still open).
-- [ ] Resolve the remaining signs and the cover names.
-- [x] Add the report on the manuscript volume (`prior_art/volume.md`).
-- [ ] Remove local file paths from the reports and the work log.
-- [ ] Choose a licence, and confirm that no file from another project is included without its licence.
+- A check of both readings by a palaeographer. The model checked every line against the page images; a human has
+  not.
+- The remaining signs and the cover names.
+- The gaps in the search for earlier readings (see "Is the reading new").
+
+The work logs in `evidence/` are the logs as written during the work. They name folders of the working machines
+(for example `prior/bourdeau/`, `tmp/`, `results/`); those folders are not part of this repository. No file from
+another project is included here.
+
+## Licence
+
+Code: MIT. Text: CC BY 4.0. Images: reduced crops from Gallica, under the BnF's conditions of reuse, with the
+credit "gallica.bnf.fr / BnF". Details are in [LICENSE.md](LICENSE.md).

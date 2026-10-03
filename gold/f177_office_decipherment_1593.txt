@@ -1,6 +1,11 @@
 # f. 177r-v: the office's decipherment of f. 176r-v (Baudouin-Desportes to Clement VIII, 22 July 1593).
 # First reading by Claude, 1 Oct 2026, from Gallica canvases 329-330. Abbreviations expanded. [?] marks doubt.
 # One manuscript line per line. r = recto, v = verso.
+# WARNING (3 Oct 2026): this first reading has errors of ours and is being replaced. Known misreadings:
+# r23 "dix ans" (page: "ung an"); r24 "ou mesmes" ("ou encores"); r33-34 "faire perdre a la demeure Joinct aussi"
+# ("faire penser a l'advenir injuste ce que"); v02 "vingt mil hommes ... dix pieces" ("xij m hommes ... et d'y
+# penser"); v09 "saincte convention" ("faincte conversion"); lines v35-v40 are mostly wrong.
+# The cipher-side files f176r.txt and f176v.txt were checked against the signs and are not affected.
 r01 Tressainct pere La larme aux yeux et lame plaine de desespoir Je scay dire a vostre sainctete
 r02 quil me desplaist infiniment quelle ayt a me trouver si veritable sur ce que tant de fois je luy
 r03 asseure que quand que le Roy d'hespaigne vint a demeurer ferme et resolu a vouloir sa fille Royne de

@@ -101,10 +101,35 @@ Open gaps, stated plainly:
 
 ## Who wrote the letters
 
-The 1593 register calls the writer "Desportes". The BnF catalogue names him "Baudouin-Desportes". The literature
-keeps two men apart: Thibault Desportes, sieur de Bévilliers, brother of the poet Philippe Desportes and envoy of
-Mayenne to Rome; and Baudouin Desportes, Mayenne's secretary of state. The writer is probably Thibault. This is an
-inference, and a comparison of hands would settle it. See [prior_art/scholarship.md](prior_art/scholarship.md).
+The 1593 register calls the writer "Desportes". The office wrote "Baudouyn Desportes" on its decipherments
+(f. 178v, f. 185v), and the BnF catalogue names him "Baudouin-Desportes". Satoshi Tomokiyo holds that Baudouin is
+right (October 2026). One more fact supports this: Mayenne's letter of 4 March 1593 to the commandeur de Diou, in
+this same cipher, is countersigned "Baudouyn" (BnF, ms. français 3983, f. 109v). So Mayenne's secretary Baudouin
+worked with this cipher.
+
+Part of the literature (Lavaud 1936, Drouot 1937) keeps this man apart from Thibault Desportes, sieur de
+Bévilliers, brother of the poet Philippe Desportes and envoy of Mayenne to Rome. The reply of the bishop of Lisieux
+is addressed to "Desportes Sr de Beuvillier" (f. 274v), and an earlier version of this file preferred Thibault for
+that reason. The point stays open, and a comparison of hands would settle it. See
+[prior_art/scholarship.md](prior_art/scholarship.md).
+
+## Follow-up of 3 October 2026
+
+S. Tomokiyo published this reading on 3 October 2026 and asked two questions
+([cryptiana, "An Intercepted Report of Henry IV's Upcoming Attendance at Mass in a Polyphonic Cipher"](https://cryptiana.web.fc2.com/code/polyphonic1593.htm)).
+
+- **Do the two letters add something to the letters that the office read in 1593?**
+  [reading/comparison.md](reading/comparison.md). In short: the forecast of the conversion on Sunday is not new.
+  The office read it in the letter to Lisieux ("Il se doibt faire cath. dimanche", f. 184r). Seven passages are in
+  the two unread letters only.
+- **Who deciphered the other letters in 1593?** [evidence/decipherer_1593.md](evidence/decipherer_1593.md). In
+  short: the office read this cipher from the letters of 27 October 1592 onward; its clerks did not know the rare
+  signs, so the key was probably rebuilt and not captured; the hands are not Viète's. No clerk is named. A hand
+  comparison by a model is weak evidence, so the panels are in `images/` for a palaeographer to judge.
+
+Two of his three corrections to the clear text of f. 186r are applied, with one more change of notation
+("[le Legat]": the sign carries the article). His third reading, "en reste" for "icy reste" (l. 12), is noted in
+the reading file.
 
 ## Credits
 
@@ -120,9 +145,9 @@ inference, and a comparison of hands would settle it. See [prior_art/scholarship
 
 | Folder | Content |
 |---|---|
-| `reading/` | The readings, with the raw machine output in `reading/raw/`. Also a third leaf in the same cipher, BnF fr. 4715 f. 61, read in full (`fr4715_f61_reading.txt`); Tomokiyo had read five spans of it. |
-| `gold/` | The labelled lines used for training and testing, and our transcription of the 1593 decipherment on f. 177 |
-| `evidence/` | Accuracy figures, the 1593 register entries, the work log |
+| `reading/` | The readings, with the raw machine output in `reading/raw/`, and the comparison of the four letters of 22 July. Also a third leaf in the same cipher, BnF fr. 4715 f. 61, read in full (`fr4715_f61_reading.txt`); Tomokiyo had read five spans of it. |
+| `gold/` | The labelled lines used for training and testing, and our transcriptions of the 1593 decipherments: f. 177-178 (use the file `v2`; the first one has errors) and f. 184 |
+| `evidence/` | Accuracy figures, the 1593 register entries, the work log, and the study of the 1593 decipherer |
 | `prior_art/` | The search for earlier readings |
 | `images/` | Reduced images for reference |
 | `code/` | The scripts as they were used. They are not yet cleaned up. |

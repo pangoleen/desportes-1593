@@ -1,0 +1,63 @@
+# f. 184r-v: the office's decipherment of f. 188r (Desportes to the bishop of Lisieux, Paris, 22 July 1593).
+# BnF ms. français 3984, Gallica ark btv1b9060633d, images 343 (f. 184r) and 344 (f. 184v).
+# First reading by Claude, 3 Oct 2026, from the native images, strip by strip; the doubtful words were then
+# read a second time at native size. No palaeographer has checked it. Abbreviations expanded in [ ]. (?) marks doubt. One manuscript line per line.
+# Person names that sit in a gap, in larger letters, are marked {gap: ...}.
+r01 Monseigneur, Pour eviter une longue redicte de l'estat des aff[air]es Je me contenteray de m'en remettre sur ce que j'en ose p[rese]ntement
+r02 escrire a n[ost]re s[ain]t pere, que vous me ferez cest honneur de f[air]e deschiffrer & y recougnoistrez les aff[air]es ainsi que si vous les voyez a veue
+r03 d'oeil. Aussi estimay je que vous aurez assez cougneu mon humeur pour juger que rien ne le peult f[air]e f[air]e que le bien Et
+r04 que si j'en sentois aultrem[en]t, non le papat mais la possession de tout le monde ne me feroit pas changer de langaige
+r05 que je ne doubte poinct n'estre bien different par d'au[tr]es(?) estans portez par un monde de passions, Toutesfois encore une
+r06 fois croyez qu'il y a de la pityé en du M[ayne]. Car pour les hommes Je n'y recougnois rien de bon voire ceulx que je
+r07 pensois y estre obligez suivant le commandement qu'ilz ont de n'avoir au[tr]e mire que le bien du Roy[au]me et conservation
+r08 de la religion. Ilz sont les premiers qui nous veullent precipiter & dont noz amis font le[ur] principal bouclier Car par
+r09 le retour de poquinteste sur ce(?) que l'on ne nous apprenoit mille nouvelles, que tout estoit remis en creance on s'en est
+r10 tellem[en]t prevalu au prejudice desdict {gap: du Mayne —} qu'il semble qu'il ayt commis un crime de leze majesté
+r11 divine & humaine pour avoir parlé veritablement & Neantmoings ce n'estoit rien a l'esgal de mes despesches
+r12 que le S[ieu]r Piettre m'a faict cest honne[ur] de m'escrire que sa saincteté a bien receues & commandé de sa part de continuer./
+r13 En un mot le meilleur ministre qu'aye {gap: Le Roy d'Espaigne} soit pour tendre a la discipa[ti]on de l'estat ou pour nous
+r14 embarasser est {gap: le Legat} Car toutes les faultes qui sont commises par le duc de Feria & tous les au[tr]es
+r15 ministres du Roy d'Espaigne ou il n'y a lieu d'excuse Il les rabille aux despens de sa S[ainte]té Tellem[en]t que vous seriez
+r16 estonné comme on en parle & le mauvais nom qu'il donne au s[ain]t siege & a sa S[ainte]té que les ennemiz d'aill[eur]s
+r17 n'espargnent pas tantost sur un subject puis sur un au[tr]e./ Il y a deux Jours qu'ilz s'offrirent de f[air]e
+r18 voir une l[ett]re du S[ieu]r Piettre par laquelle il le[ur] escript que sa S[ainte]té En cas que le roy de N[avar]re se face cath[olique] qu'Il
+r19 se[ra] receuz, Le president Janin en estoit tout troublé Mais je l'ay asseuray que cela estoit faulx Surquoy Il ne
+r20 m'a esté malaisé de le retirer de la peyne ou cela l'avoit mis Car il n'est possible que le S[ieu]r Piettre eust faict
+r21 une telle faulte estant raisonnable que nous en feussions les premiers advertiz pour pouvoir bastir sur ce
+r22 fondem[en]t. Du depuis(?) on me vient d'advertir que le R[oy] de Navarre a pris une l[ett]re de sa S[ainte]té par laquelle
+r23 Il a veu trois poinctz principaulx d'extreme consequen[ce]./ Le premier de ne consentir a aulcune Royaulté contre
+r24 aux loix & de ne rien f[air]e au prejudice de Bourbon & ne rien f[air]e qui puisse alterer les catholicques qui sont avec
+r25 le R[oy] de N[avarre] sur ce que nous voyons bien que la Royaulté que l'on p[rese]nte n'est po[ur] estre approuvee de tous, Ce bruict fera un grand
+r26 eschec parmy les plus par[ticuli]ers d'entre nous, ce qui regarde la maison de Bourbon nous embrouille fort veu
+r27 que l'on dict que mon retour a causé qu'on ne s'est porté a ce desseing & que cela ne tend qu'a n[ost]re ruine Mais
+r28 Je m'en riz car vous scavez la part qu'ilz avoient de ce costé la / Or Je veulx qu'il y eust du changem[en]t
+r29 pendant mon absen[ce] qu'ilz se feussent acquis plus grande puissance, C'est assavoir si le couraige le[ur] est changé
+r30 & puis Il me semble que n'estans point desuniz c'estoit du moings que nous en deussions estre advertiz, Pour
+r31 le R[oy] de N[avarre] Il se doibt f[air]e cath[olique] dimanche, Le Perron l'instruict, Mons[ieu]r de S[ain]t Eustache y a esté convié, Mons[ieu]r
+r32 de Chavaignac et mons[ieu]r de Morennes, Mons[ieu]r de Bayeux et d'au[tr]es, tous les presidens de ses parlementz avec
+r33 le plus de noblesse qu'il pourra, J'ay traicté avec ledict Perron plus de sept h[eur]es. Ce que j'en ay tiré est que nous
+r34 pensions f[air]e un coup d'estat par noz estatz & qu'il nous le rendent Inutille par ceste maniere de procedder /
+r35 Tant que sa S[ainte]té ne se lairra entendre & ne parle plus librement a monsieur de Mayenne sans s'en remettre
+r36 a son legat, Il est malaisé de rien f[air]e. Croiez que tout au[tr]e que ledict du Mayne eust ruiné noz aff[air]es
+r37 ou sa sagesse a empesché beaucoup de malheurs qui eussent esté sans remedde. Nous sommes tous a l'hospital
+r38 par ces temps pensent le vincre en ne luy donnant un teston Il y a deux mois qu'il ne vit que d'emprunt. Pour
+r39 les abbayes que scavez, S[ain]t Benoist ne se peult donner par monsieur de Vitry en la resigna[ti]on en fave[ur] d'un
+r40 de ses enfans, Le M[aist]re ne laira de la vous accorder Mais il me semble que vous feriez mieulx de
+v01 prendre Vendosme, au premier Jour Je vous en envoyray les despesches si le Jugez a propos, Monsieur
+v02 [blank space] n'a pas eu de raison de vous f[air]e rien escrire a mon prejudice a Mons[ieu]r de Mayenne
+v03 Car vous m'avez cougneu assez son servite[ur] aussi Monseig[neu]r ne m'en a rien dit sachant comme J'en
+v04 ay tousjours parlé dignem[en]t, Je suis marry qu'il me traicte en coclaiz(?) ou nivelle veu que je ne paye
+v05 Jamais personne d'Ingratitude Sur ce je suppliray treshumblem[en]t le Create[ur]
+v06 Monseigne[ur], vous donner tresheureuse & treslongue vie de Paris ce xxij^e Juillet 1593
+v07 Je vous supplie treshumblem[en]t f[air]e ^bien^ deschiffrer toutes les despesches & que le tout        V[ost]re treshumble serviteur
+v08 soit rep[rese]nté a sa Saincteté et au S[ieu]r dom Piettre sans en reserver aulcune                     Desportes
+v09 clause parce qu'il est tresnecess[air]e.
+
+# Notes
+# r09 "poquinteste": Desportes wrote this name in clear text on f. 188r l. 10; the clerk copied it. The same
+#     word is in cipher in f. 189 l. 17 (classes C B + D H I A G E F G E).
+# r31 "Mons[ieu]r de S[ain]t Eustache": the cure of Saint-Eustache, Rene Benoist. "Le Perron": Jacques Davy du Perron.
+# v02 the line starts with a blank of about one third of the width after "Monsieur": a name left out.
+# v04 "en coclaiz ou nivelle": not understood. Perhaps an allusion to the proverb of Jean de Nivelle.
+# f. 185r (image 345) is the postscript of 26 July, in ANOTHER hand. Its text is in prior/bourdeau/f185_plain.txt
+#     (with errors) and, in the cipher's spelling, in gold/f188v.txt.

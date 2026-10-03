@@ -1,0 +1,138 @@
+# BnF ms. francais 3984, f. 177r, f. 177v, f. 178r: the 1593 decipherment of f. 176r-v and f. 179r
+# (Desportes to Clement VIII, Paris, 22 July 1593). Gallica btv1b9060633d, images 329, 330, 331.
+# Second reading by Claude, 3 Oct 2026, from native crops of canvases c329, c330, c331, line by line, with the
+# cipher text (gold/f176r.txt, f176v.txt, f179r.txt) beside it. It replaces the first reading of 1 Oct 2026
+# (f177_office_decipherment_1593.txt), which has many errors. No palaeographer has checked this file.
+# One manuscript line per line. r = f. 177r, v = f. 177v, w = f. 178r.
+# Abbreviations are expanded without marks (q = que, ql = quil, por = pour, nre = nostre, fe = faire, aue = aultre,
+# cath. = catholique, lres = lettres). No apostrophes. Kept as written, because they render cipher signs:
+# "R. dhespaigne", "R. de N.", "V. S.", "Mr", "Mons", and figures.
+# (?) after a word = doubtful reading. [sign] = a cipher sign that the clerk drew into the text.
+# <struck: ...> = words struck out by the clerk. ^word^ = word added above the line.
+# Underlines and a marginal "Nota" brace (r22-r34, v15-v20) are by a reader; they are not marked here.
+# Hands: A = secretary hand with the q-stroke sign for "que". B = more angular secretary hand, "que" and "Et" in full.
+#
+# --- f. 177r (34 lines), hand A ---
+r01 Tressainct pere / La larme aux yeux et lame plaine de desespoir Je scay dire a vostre sainctete
+r02 quil me desplaist infiniment quelle ayt a me trouver si veritable sur ce que tant de fois Je lay
+r03 asseure quen cas que le R. dhespaigne vint a demeurer ferme et resolu a vouloir sa fille Royne de
+r04 France / Le duc Erneste ou aultre subiect contraire a noz loix quil seroit occasion de la Ruine de nostre
+r05 party et de lestablissement du Roy de Navarre estant une Ignorance trop grande de penser faire
+r06 passer oultre en ung affaire de telle Importance comme celle pour laquelle estoit convoquee lassemblee des estatz
+r07 sans premierement remplir les oreilles et les yeux de quelque apparance dappuy ferme et non
+r08 comme par le passe / Car ou Il y va de la totalle perte de la relligion de son honneur et de tout ce
+r09 qui se peult Cestoit du moings que lon deust estre renduz capables du moyen de se pouvoir
+r10 garentir Au contraire Jamais les ministres du R. dhespaigne nont este si despourveuz de touttes
+r11 sortes de moyens leur armee si petite sans faire aulcun progrez et monstrer de mespriser tout ce
+r12 qui peult servir pour nostre conservation avec ces choses faire une si vive recherche de parvenir
+r13 a leurs desseings sans en vouloir rien rabbatre Ca este mettre tout le monde en tant de
+r14 desespoirs que les depputez pour leur honneur ont este plusieurs fois pour se separer sans rien conclure
+r15 Aussi quilz ont receu une grande honte que le R. de N. ayt pris a leur barbe Dreux ville la
+r16 plus zellee et catholique qui feust en ce party ou Jamais on na voulu donner ordre quelque Instance
+r17 quilz en ayent sceu faire a ceulx qui ne parlent que du bien de la France, et nont aultre parolle que la
+r18 relligion nonobstant quilz ayent eu six sepmaines de loysir pour le faire Et toutesfois Ilz ont faict comme
+r19 silz navoient point doreilles sinon pour effectuer leur desseing Ce qui a faict a tous ouvrir les yeux et
+r20 desployer la langue pour nestre plus Insensibles tant que en estans <struck: en grande apprehension> entrez en apprehension
+r21 et que lesdits deputez par leur retraicte ne feussent pour apporter de grandz changemens aux Provinces lassees de
+r22 ces manieres de proceder que lon voit ne tendre qua nostre ruine ont voulu reparer leur faulte par la proposition
+r23 dun nouveau subiect lequel sil <struck: one word, not read> eust este desploye Il y a ung an, et lors quil ny avoit nulle aparance
+r24 de conversion avec le Roy de Navarre ou encores au temps que Jeuz cest honneur de traicter de ceste matiere avec vostre
+r25 sainctete et que a mon partement elle sen feust laissee entendre ainsi qua la personne de du Mayne le temps que lon a
+r26 perdu eust peu estre employe de telle sorte quil en eust peu reussir de lutilite / Mais a present si bien Ilz presentent ung monde
+r27 de belles conditions, ^que^(?) chascun <struck: faict> scait que ce nest que pour opposer a lobstacle que nous donne maintenant le Roy de Navarre
+r28 pour le changement quil faict de son opinion en la relligion catholique qui ne sera pas peu +, et apres quilz nous auront faict
+r29 passer ceste carriere de nous rendre Irreconsilliables nous laisser dans la fange Car si cestoit a bon essiant quilz
+r30 voullussent marier Mons de Guyse avec lInfante Comme Ilz disent par des Instructions quilz representent(?) bien expresses
+r31 Il nest pas possible quilz eussent voulu commettre tant derreurs quilz ont faict Comme de sestre laissez cognoistre
+r32 Jusques dans lAme navoir faict nulles provisions dargent ny faict nul preparatif pour faire la guerre Laissans —
+r33 acroistre nostre ennemy en reputation donner par ce moyen courage aux siens de ne labandonner et a nous au
+r34 contraire faire penser a ladvenir Injuste Ce que aultresfois nous trouvions Juste, scavoir de luy faire la guerre
+# r04: the cipher has no "ou" before "le duc Erneste"; the clerk put a stroke "/". r05: "party" renders a cipher sign.
+# r13: "Ca este" is written over a blot. r16: blot on "party". r25: "ainsi qua la personne de du Mayne" is the
+# marginal addition at the foot of f. 176r. r26: blot on the first "eust". r27: "que" is a small insertion above the
+# line. r28: the "+" stands for the cipher word "deschec", which the clerk did not read. r34: "Ce" is written over
+# another word.
+#
+# --- f. 177v (40 lines) ---
+# hand B, lines v01-v17
+v01 Et qui pis est de luy avoir tellement asseure son party, Sa noblesse et ses villes quon tient
+v02 pour certain que dans quinze Jours Il aura 3000 chevaulx, Et xij m hommes de pied Et dy penser
+v03 Remuer rien a son prejudice Le subject de la Religion en estant hors Il ny fault pas seulement
+v04 songer Aussi que ung chascun desespere de nostre salut Car maintenant Mr du Mayne et
+v05 tous les princes ne se Retrouvent pas avec eulx deux cens chevaulx ayans este force de Jetter
+v06 ung chascun par la necessite ou lon se Reduict dans les places pour y tenir garnison de craincte
+v07 quil nen arrive ainsi qua Dreux Car quon se promette plus rien des espaignolz pour en Repaistre noz
+v08 partisans cest se Rompre la teste Je ne diz pas que silz eussent voulu parler clair de bonne heure et donner le
+v09 loisir dy porter noz villes pour lapprehention dune faincte conversion Quil ny eust eu moyen de subsister
+v10 Mais de la sorte quilz se Retrouvent Et que lesdits ministres se sont gouvernez cest encores plustost courre
+v11 a nostre perte daultant que nostre naturel veult des executions promptes Et qui ne nous donnent le loisir den
+v12 venir sur les discours Dieu scait avec quel<struck: le> Regret Il(?) fault que Jen parle de la sorte a V. S. Mais Jy
+v13 suis force Afin quelle ne sabuze point a tout ce que lon luy pourroit escrire au contraire Et quelle me face
+v14 cest honneur de se souvenir quelle me la commande Et aussi que Je luy ay tousiours parle librement
+v15 et veritablement / Partant tout le Remedde qui sy pouvoit trouver pour nous saulver du naufrage qui soffre
+v16 cestoit de ^ne^ luy desnier une tresve de quelques mois pour des Raisons longues a deduire(?) Lesquelles
+v17 Mr le Legat na nullement voulu gouster que chascun attribue a lInterest de son particulier
+# hand A, lines v18 to the middle of v32
+v18 Pour le subiect que Jose une fois dire a V. S. dont on dict estre si chatouille quil nest capable de nul
+v19 bon conseil et a pris une telle liberte de parler a Mons du Mayne que pour bien faire Il luy laisse tout
+v20 conduire affin de faire chose qui soit aggreable a V. S. veu ce que ces aultres ministres lont tousiours
+v21 preoccuppee / Mais moy qui la cognois estre sans passion aultre que celle du bien de la France Je
+v22 masseure et luy ay remonstre assez de fois quil passast oultre, et que V. S. lapprouveroit Car Il
+v23 vault mieux ployer que rompre veu que les exemples de [sign] ^dallemagne^ . et dangleterre nous le doibvent
+v24 avoir assez appris nonobstant tout ce que Je luy en ay sceu dire, Il ne la voulu faire, et est auiourdhuy
+v25 en estat de prendre telle loy qui luy sera prescripte par Mons le Legat lequel a pris ung extreme —
+v26 advantaige sur ce que V. S. avoit mal receu la despesche escripte a [sign] <struck: one word, not read> . Le ms mal sur lestat
+v27 des affaires. Tant que ce pauvre Prince a este long temps au desespoir, et sans que Je le console sur ce que —
+v28 ce nestoit rien au respect de la mienne quelle estoit bien plus moderee, et que neantmoings le Sr Pietre —
+v29 ma faict cest honneur de me faire scavoir que vostre sainctete lavoit trouve bonne voire coniure de continuer
+v30 a ladvenir avec mesme liberte, Jestime quil feust tumbe soubz le faiz et puis Jallay voir Mons —
+v31 le Legat auquel Je portay la coppie de mesdites lettres sur lesquelles Il ne sceut que dire, La verite estant
+v32 tousiours elle mesme par tout, et les approuva veritables . En semblable les Raisons que Je
+# hand B, from "En semblable" in v32 to v40
+v33 luy donne sur les affaires de maintenant pour nous empescher dune prochaine Ruyne par le —
+v34 moyen de ladite tresve A quoy il ne me sceut que Repartir ny donner aultre satisfaction sinon(?) que(?) In foro
+v35 conscienciae Il ne la pouvoit consentir encores sil se feust tenu en ses termes quil meust(?) couvert la
+v36 honte des espagnolz, lhonneur de vostre S. ny seroit engage ainsi quil est Mais au contraire
+v37 a adiouste que sil la faisoit Il se Retireroit hors de France suivant la charge quil en avoit
+v38 de vostre S. Tellement quaulcun de ses serviteurs ne luy a voulu conseiller la dessus Car ceust este
+v39 luy faire porter le faiz et la calomnie de tous <struck: one word, not read> ceulx qui nont pour but que de se contanter
+v40 aux despens de ses peines et travaulx Mais ce sera bien pis si leur conduite nous faict Recognoistre
+# Marginal note, left margin beside v16-v19, a third hand (bold italic), with a brace:
+#   "Cest de le faire pape comme apert par aultres lettres que les espagnolz le luy promettoyent"
+# v02: "quinze", "3000", "xij m" render the cipher's "xv" (roman), "trois mil" and "xij m". v05: cipher "aiant".
+# v06: cipher "ou lon la reduit". v09: cipher "la prevention". v10: cipher "ou ilz se retrouvent".
+# v16: the cipher has "estoit celuy de faire une tresve". "de faire" and "desnier" are the same seven signs
+#   (d/q e/r f/s a/n i/x e/r e/r). The clerk read "desnier" and added "ne" above the line to make sense.
+# v17: "Mr le Legat" renders two cipher signs. v23: [sign] is the Jupiter-like sign of f. 176v line 22, drawn by
+#   the clerk; "dallemagne" is above it in a thinner pen; a gap and a point follow. v26: [sign] is the h-like sign of
+#   f. 176v line 25, drawn by the clerk; the cipher has "auroit" where he wrote "avoit". "Le ms" = "le m[oi]s",
+#   as in the cipher. v34-v35: "In foro conscienciae" is clear text in the cipher. v35: blot on the word before
+#   "couvert"; the cipher has "meust".
+#
+# --- f. 178r (19 lines) ---
+# hand B, lines w01 to the middle of w15
+w01 par force ung qui se veult tantost dire catholique Et rien ne luy pouvoit empescher
+w02 que la tresve Car estans les ministres dEspagne desnuez de tous moyens chascun desespere
+w03 de leur secours Nous navions qua gaigner le temps pour nous pouvoir armer Et tout ce que
+w04 lon oppose au contraire que cest ung allechement au peuple pour tendre a la paix Je demanderois volontiers
+w05 si lon faict mieulx de le mettre au desespoir Or Dieu vueille que Je sois ung menteur Mais sil na
+w06 pitie de nous Je tiens que nous sommes en mauvais estat et crains que les peuples sans ce loisir
+w07 de respirer ne prenne de mauvais conseilz Et ne se portent enfin mal entre nous non pas
+w08 au Repos dune tresve de peu de Jours mais a une paix entiere peu honorable pour nous et peu seure
+w09 pour la religion La maieste divine nayant pas plus <struck: one word, not read> en Recommandation la France que les aultres
+w10 Royaulmes dont Il a Retire ses graces Et le tout pour avoir <struck: one word, not read> neglige les affaires / et les vouloir prendre
+w11 hors de saison encores avec tous les desadvantages que lon scauroit Imaginer Ceste pretendue
+w12 conversion provient des guerres(?) qui ont eu leur temps si a propos quelles sont pour produire
+w13 de mauvais fruictz non seulement aux despens de ce Royaulme qui en sera infecte mais de toute
+w14 la chrestiente ayans craincte quil ne nous Reste bien tost aultre Remedde que de faire avec Jugement
+w15 et par accord premedite Ce a quoy nous voyons bien que serons portez par la force et precipitation dun nombre
+# hand A, from "Ce a quoy nous voyons" in w15 to w19
+w16 Infini de noblesse et de peuples, Jy metz encores les ecclesiastiques qui penseront tous nestre plus obligez a faire la
+w17 guerre apres la conversion du R. de N. Mais au contraire tenuz a procurer le bien de ce pauvre et miserable Royaume que chascun
+w18 cherche(?) de deschirer et mettre en pieces soubz pretexte de relligion et lapparance dune Imaginaire Royaulte quon propose
+w19 foible sans argent et sans gens pour sopposer a la conversion du R. de N. assiste avec ardeur de tous les siens /.
+# w01: cipher "ne len pouvoit". w02: "dEspagne" renders a cipher sign. w07: the cipher has "malgre nous"; the
+#   clerk read the g/t sign as t. w07: "prenne" for the cipher's "pregne". w10: "prendre" for the cipher's "pendre".
+# w12: the cipher has "tresnes" (our gold reads it as a slip for "tresues") and then a sign; the clerk wrote a word
+#   that I read as "guerres" and left the sign out.
+# f. 178v (image 332) has only the endorsement "deschiffrement de la lre de Baudouyn desportes a sa sainctete".

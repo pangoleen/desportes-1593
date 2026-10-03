@@ -1,7 +1,7 @@
 # f. 177r-v: the office's decipherment of f. 176r-v (Baudouin-Desportes to Clement VIII, 22 July 1593).
 # First reading by Claude, 1 Oct 2026, from Gallica canvases 329-330. Abbreviations expanded. [?] marks doubt.
 # One manuscript line per line. r = recto, v = verso.
-# WARNING (3 Oct 2026): this first reading has errors of ours and is being replaced. Known misreadings:
+# WARNING (3 Oct 2026): this first reading has errors of ours. Use f177_f178_office_decipherment_v2.txt. Known misreadings:
 # r23 "dix ans" (page: "ung an"); r24 "ou mesmes" ("ou encores"); r33-34 "faire perdre a la demeure Joinct aussi"
 # ("faire penser a l'advenir injuste ce que"); v02 "vingt mil hommes ... dix pieces" ("xij m hommes ... et d'y
 # penser"); v09 "saincte convention" ("faincte conversion"); lines v35-v40 are mostly wrong.

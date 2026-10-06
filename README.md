@@ -3,6 +3,10 @@
 A first reading of two enciphered letters from the Catholic League, written in Paris on 22 July 1593, three days
 before Henri IV abjured Protestantism.
 
+**Part of a larger set.** Nine results of the same project, with a map of every key, reading and image, are in
+[pangoleen/cipher-readings](https://github.com/pangoleen/cipher-readings) (start with its
+[GUIDE.md](https://github.com/pangoleen/cipher-readings/blob/main/GUIDE.md)).
+
 | Letter | Shelfmark | State before | State now |
 |---|---|---|---|
 | Desportes to Girolamo Frachetta | Paris, BnF, ms. français 3984, f. 189 | "Undeciphered" | [first reading and translation](reading/f189.md) |

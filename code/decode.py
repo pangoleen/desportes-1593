@@ -124,7 +124,7 @@ def decode(tokens, gaps, lm, alts=None, beam=40, a_nogap=1.2, b_ingap=3.0, oov=-
                 push(i + 1, '<#>', sc + start_pen - 2.0, (i, prev, '#', 's'))
             else:
                 # out-of-lexicon glyph: letter chosen by the character model given the previous letters
-                hist = prev[5:] if prev.startswith('<o>') else ' '
+                hist = prev[len('<o>'):] if prev.startswith('<o>') else ' '
                 for ch in PAIRS[t]:
                     lp = lm.charlp(hist, ch)
                     push(i + 1, '<o>' + (hist + ch)[-4:], sc + oov + lp + (start_pen if not prev.startswith('<o>') else (-b_ingap * 0 if not gaps[i] else -0.5)), (i, prev, ch, 'o'))
